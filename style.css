@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+ul li {
+   text-align: left;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+h2 {
+   text-align: center;
+}
